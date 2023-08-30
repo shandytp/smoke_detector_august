@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.pytest_cache/
+.vscode/
+__pycache__/
+/venv_linux/
+/venv_win/
+/venv/
